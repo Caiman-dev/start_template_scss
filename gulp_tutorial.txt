@@ -1,0 +1,16 @@
+- npm init																																//создать package.json
+- npm i gulp-cli -g																												//установка gulp глобально
+- npm i gulp -D																														//установка gulp локально
+- npm i gulp-sass sass -D																									//конвертация scss
+- npm i gulp-concat -D																										//переименование и конкатенация файлов
+- npm i gulp-uglify-es -D																									//минификация js
+- npm i browser-sync -D																										//аналог live server
+- npm i gulp-autoprefixer -D																							//для браузеров
+- npm i gulp-clean -D																											//удаление папок
+- npm i gulp-avif gulp-webp gulp-imagemin@7.1.0 gulp-newer --save-dev			//минификация изображений
+- npm i gulp-svg-sprite --save-dev																				//создание спрайта
+- npm i gulp-fonter gulp-ttf2woff2 --save-dev															//конвертация в woff2
+- npm i gulp-include --save-dev																						//include html
+- npm i normalize.css -D																									//normalize.css
+- npm i jquery -D																													//jquery
+- nmp i																																		//скачать модули которые прописаны в package.json
